@@ -1,0 +1,7 @@
+     1	      5 teste
+     2	      1 remos
+     3	      1 pedro
+     4	      1 moreira
+     5	      1 lopes
+     6	      1 feito
+     7	      1 barco
